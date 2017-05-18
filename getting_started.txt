@@ -8,6 +8,7 @@ conda install theano
 conda install h5py
 conda install keras
 conda install matplotlib
+conda install jupyter
 
 pip install keras==1.1.1
 
