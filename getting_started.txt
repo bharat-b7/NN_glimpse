@@ -6,7 +6,6 @@ source ~/.bashrc
 #2. Install theano, h5py
 conda install theano
 conda install h5py
-conda install keras
 conda install matplotlib
 conda install jupyter
 
