@@ -15,7 +15,7 @@ pip install keras==1.1.1
 # Verify: $HOME/.keras/keras.json
 #Change 
 # 1)"backend":"tensorflow" to "backend":"theano"
-# 2)"image_data_format":"channel_last" to "image_data_format":"channel_first"
+# 2)"image_data_format":"channel_last" to "image_data_format":"th"
 
 git clone https://github.com/bharat-b7/NN_glimpse.git 
 
