@@ -7,4 +7,5 @@ Requirements:
 2. Keras and its dependencies
 
 For installations check out 'getting_started.txt' 
+
 Partial credits @leriomaggio.
